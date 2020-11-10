@@ -1,4 +1,4 @@
-#My name is Mirek
+# My name is Mirek
 
 **Im graphic desginer, web designer and illustrator.** Basicly 
 
