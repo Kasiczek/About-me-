@@ -1,4 +1,4 @@
-<img src=“https://github.com/KrisKasprzak/ILI9341_t3_controls 310”>
+![alt text](https://github.com/Kasiczek/About-me-/blob/main/barva.png?raw=true)
 # SCIT 
 Service & Consulting IT
 
