@@ -9,7 +9,8 @@ The think that make this project special for me its his exceptionality.
 
 Nobody really knows anything about what they are doing. So first it was very difficult to understand the proces that they are doing with their clients. 
 
-<img src="https://www.scit.cz/img/technologie/bg03.png"400" height="200"/>
+<img src="https://www.scit.cz/img/technologie/bg03.png?raw=true"
+
 
 ## What is SCIT actually doing? 
 We have been dealing with the system of automated control of water supply and sewerage equipment for many years. We know very well the functioning of these units, we know how to handle them and how to make the best use of them. We also deal with the development of hardware and software so that we can always offer the best technology.
