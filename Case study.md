@@ -1,4 +1,4 @@
-<img src="https://github.com/Kasiczek/About-me-/blob/main/barva.png?raw=true" width="800" height="500"/>
+<img src="https://github.com/Kasiczek/About-me-/blob/main/barva.png?raw=true" width="400" height="300"/>
 
 # SCIT 
 Service & Consulting IT
