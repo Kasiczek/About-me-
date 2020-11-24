@@ -1,9 +1,8 @@
 <p align="center">
 <img src="https://github.com/Kasiczek/About-me-/blob/main/barva.png?raw=true" width="400" height="200"/>
-</p>
 
-#SCIT 
 Service & Consulting IT
+</p>
 
 I choose this project because its my favorite. It is relly complex identity that i created just by myself (with constultation of my superior at work).
 The think that make this project special for me its his exceptionality. 
