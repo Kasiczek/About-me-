@@ -9,7 +9,7 @@ The think that make this project special for me its his exceptionality.
 
 Nobody really knows anything about what they are doing. So first it was very difficult to understand the proces that they are doing with their clients. 
 
-<img src="https://www.scit.cz/img/technologie/bg03.png?raw=true"
+<img src="https://www.scit.cz/img/technologie/bg03.png?raw=true"/>
 
 
 ## What is SCIT actually doing? 
