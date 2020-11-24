@@ -1,4 +1,5 @@
-![alt text](https://github.com/Kasiczek/About-me-/blob/main/barva.png?raw=true)
+<img src="https://github.com/Kasiczek/About-me-/blob/main/barva.png?raw=true" width="100" height="100"/>
+
 # SCIT 
 Service & Consulting IT
 
